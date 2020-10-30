@@ -1,4 +1,3 @@
-if game.GameId == 111958650 then
 local library = loadstring(game:HttpGet(('https://pastebin.com/raw/FsJak6AT')))() 
 local main = library:CreateWindow("Hoe Hub")
 local Sword = main:CreateFolder("Arsenal")
